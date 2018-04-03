@@ -14,7 +14,7 @@ library(gapminder)
 
 All inspired heavily by [Tamara Munzner](http://www.cs.ubc.ca/~tmm/), and also by the design of [ggplot2](http://ggplot2.org/), an R package for data visualization.
 
-## Whence data visualization??
+## Why data visualization??
 
 ![viz_abstraction.png](viz_abstraction.png)
 
